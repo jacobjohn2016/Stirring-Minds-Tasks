@@ -1,2 +1,1 @@
-# Stirring-Minds-Tasks
-Stirring Minds Internship Tasks
+# Stirring Minds Internship Tasks
