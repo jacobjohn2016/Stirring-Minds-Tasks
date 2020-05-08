@@ -11,6 +11,7 @@ pandas==1.0.3
 seaborn==0.10.1
 matplotlib==3.2.1
 scikit-learn==0.22.2.post1
+statsmodels==0.11.1
 ```
 
 ### DS2: What cross-validation technique would you use on a time series data set?
@@ -19,3 +20,6 @@ scikit-learn==0.22.2.post1
 2. [Pdf Solution](/DS2/Cross%20Validation%20in%20Time%20Series.pdf)
 
 ### DS4: How can a time-series data be declared as stationery?
+
+1. [Notebook Solution](/DS4/Stationarity%20in%20Time%20Series.ipynb)
+2. [Pdf Solution](/DS4/Stationarity%20in%20Time%20Series.pdf)
